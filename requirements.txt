@@ -1,0 +1,8 @@
+crewai>=0.80.0
+crewai[google-genai]>=0.80.0
+crewai[tools]>=0.80.0
+crewai-tools>=0.20.0
+python-dotenv>=1.0.0
+
+# To play the generated game:
+# pygame>=2.5.0
